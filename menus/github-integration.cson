@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle github-integration'
+      'command': 'github-integration:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'github-integration'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'github-integration:toggle'
+        }
+      ]
+    ]
+  }
+]
