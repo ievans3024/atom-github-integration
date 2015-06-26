@@ -8,7 +8,8 @@ anything useful. Check back soon.
 This package attempts to recreate some of the UI-based Git and GitHub
 integration seen in JetBrains IDEs.
 
-# Planned Features:
+Planned Features
+================
 
 Many of these features will require a login prompt, which can hopefully be
 cached for the duration of the session, but will not be permanently stored.
