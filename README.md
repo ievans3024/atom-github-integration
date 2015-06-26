@@ -2,8 +2,8 @@
 
 Some useful UI for GitHub integration in Atom.
 
-This package is currently the default skeleton package, so it doesn't do
-anything useful. Check back soon.
+**This package is currently the default skeleton package, so it doesn't do
+anything useful. Check back soon.**
 
 This package attempts to recreate some of the UI-based Git and GitHub
 integration seen in JetBrains IDEs.
