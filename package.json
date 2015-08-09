@@ -2,13 +2,13 @@
   "name": "github-integration",
   "main": "./lib/github-integration",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "JetBrains-inspired UI for github tasks.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "github-integration:toggle"
   },
-  "repository": "https://github.com/atom/github-integration",
+  "repository": "https://github.com/ievans3024/atom-github-integration",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
